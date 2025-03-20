@@ -22,14 +22,16 @@ A modern, responsive blog application built with Next.js with App Router, featur
 
 ## Getting Started
 
-1. Clone the repository
+1. Clone the repository ``bash 
+git clone https://github.com/ankitpanchal534/assignment-20march25.git
+   ```
 2. Install dependencies:
    ```bash
-   npm install
+   pnpm i
    ```
 3. Run the development server:
    ```bash
-   npm run dev
+   pnpm dev
    ```
 4. Open [http://localhost:3000](http://localhost:3000) in your browser
 
@@ -61,5 +63,4 @@ npm test
 - Implement server-side search
 - Add more comprehensive error handling
 - Implement caching strategies
-- Add more unit and integration tests# assignment-20march25
-# assignment-20march25
+- Add more unit and integration tests
