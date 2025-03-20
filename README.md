@@ -22,8 +22,9 @@ A modern, responsive blog application built with Next.js with App Router, featur
 
 ## Getting Started
 
-1. Clone the repository ``bash 
-git clone https://github.com/ankitpanchal534/assignment-20march25.git
+1. Clone the repository 
+   ```bash
+   git clone https://github.com/ankitpanchal534/assignment-20march25.git
    ```
 2. Install dependencies:
    ```bash
@@ -39,7 +40,7 @@ git clone https://github.com/ankitpanchal534/assignment-20march25.git
 
 Run the test suite:
 ```bash
-npm test
+pnpm test
 ```
 
 ## Project Structure
@@ -57,7 +58,7 @@ npm test
 - Basic error handling is implemented
 - Mobile-first responsive design
 
-## Future Improvements
+## Future Improvements (that can be implemented)
 
 - Add pagination for posts
 - Implement server-side search
